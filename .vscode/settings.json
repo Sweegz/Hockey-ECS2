@@ -1,0 +1,31 @@
+{
+    "luau-lsp.completion.autocompleteEnd": true,
+    "luau-lsp.completion.imports.enabled": true,
+
+    "[lua]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.formatOnSave": true
+    },
+    
+    "[luau]": {
+        "editor.defaultFormatter": "JohnnyMorganz.stylua",
+        "editor.formatOnSave": true
+    },
+    "stylua.targetReleaseVersion": "latest",
+
+
+
+    "charmed-icons.associations.extensions": {
+        "client.luau": "test-blue",
+		"server.luau": "test-blue",
+	},
+
+    "charmed-icons.associations.folders": {
+        "systems": "folder_service",
+        "shared": "folder_roblox"
+	},
+
+    "charmed-icons.hidesExplorerArrows": false,
+    "charmed-icons.outlineFolders": "never",
+    
+}

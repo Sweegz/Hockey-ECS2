@@ -1,0 +1,5 @@
+return {
+	held = {},
+	pressed = {},
+	released = {},
+}

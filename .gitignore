@@ -1,0 +1,21 @@
+# Project place file
+/Hockey-ECS.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+/*.rbxm
+/*.rbxmx
+
+# Roblox Place Files
+/*.rbxl
+/*.rbxlx
+
+# Lock Files
+/*.lock
+/*.lock
+
+/Packages
+/wally.lock
+/sourcemap.json
