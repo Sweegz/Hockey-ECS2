@@ -1,6 +1,7 @@
 # Hockey-ECS
-!!! First time trying out ECS, mostly a learning Experience.
-Unideal use and implementation of the ECS design...
+!!! First time trying out ECS as a learning experience.
+
+Beware of the terrible implementation and use of ECS
 
 Uncopylocked at
 https://www.roblox.com/games/104014511511426/Hardcoded-Hockey-Template-ECS
